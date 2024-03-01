@@ -1,8 +1,30 @@
-# React + Vite
+# Pizzajoint
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Pizzajoint built using React.js and framer-motion. This is a Framer-motion practice project.
 
-Currently, two official plugins are available:
+ 🔗 [Live Demo](https://pizzajoint-gamma.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## 🛠️ Technologies
+ - `React.js`
+ - `Framer Motion`
+ - `React Router`
+
+## Usage
+
+```
+# Install dependencies
+npm install
+
+# Run server :3000
+npm run dev
+```
+
+<details open>
+<summary><h2>📷 Video</h2></summary>
+<video src="https://github.com/Lalitkumar4/pizzajoint/assets/64465383/bc41136d-2bc2-467d-b959-17c5ecf8c155" controls="controls" >
+</video>
+</details>
+
+
+
+
