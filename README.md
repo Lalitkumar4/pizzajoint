@@ -8,6 +8,7 @@
  - `React.js`
  - `Framer Motion`
  - `React Router`
+ - `Vite`
 
 ## Usage
 
